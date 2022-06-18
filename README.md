@@ -12,5 +12,6 @@
 - ⚡ Fun fact: ...
 -->
 
-![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=LegeBeker&theme=blue-green)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LegeBeker&theme=blue-green)
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=LegeBeker&theme=dark)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LegeBeker&theme=dark&hide=html,css,hack)
