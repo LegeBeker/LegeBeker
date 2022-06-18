@@ -12,5 +12,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=LegeBeker&theme=blue-green)]
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LegeBeker&theme=blue-green)]
+![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=LegeBeker&theme=blue-green)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LegeBeker&theme=blue-green)
