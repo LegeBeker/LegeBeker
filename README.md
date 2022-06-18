@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/LegeBeker) [![GitHub followers](https://img.shields.io/github/followers/LegeBeker.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/LegeBeker?tab=followers) [![Percentage of issues still open](http://isitmaintained.com/badge/open/LegeBeker/badges.svg)](http://isitmaintained.com/project/LegeBeker/badges "Percentage of issues still open")
+![Profile views](https://gpvc.arturio.dev/LegeBeker) [![GitHub followers](https://img.shields.io/github/followers/LegeBeker.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/LegeBeker?tab=followers)
 ### Hi there 👋
 
 <!--
@@ -12,5 +12,5 @@
 - ⚡ Fun fact: ...
 -->
 
-![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=LegeBeker&theme=blue-green)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LegeBeker&theme=blue-green)
+![Github streak](https://github-readme-streak-stats.herokuapp.com/?user=LegeBeker&theme=blue-green)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LegeBeker&theme=blue-green)
